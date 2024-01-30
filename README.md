@@ -7,16 +7,16 @@
 ## 🔊 Socials
 <p float="left">
     <a href="https://www.instagram.com/liamsullivanphoto/"><img src="instagram.svg" width="50" height="50"></a>
-    <img src="linkedin.svg" width="50" height="50">
-    <img src="github.svg" width="50" height="50">
+    <a href="https://www.linkedin.com/in/liambsulliva/"><img src="linkedin.svg" width="50" height="50"></a>
+    <a href="https://github.com/liambsulliva"><img src="github.svg" width="50" height="50"></a>
 </p>
 
 ## 🛠️ Tools
 <p float="left">
-    <img src="html5.svg" width="50" height="50">
-    <img src="css3-alt.svg" width="50" height="50">
-    <img src="js.svg" width="50" height="50">
-    <img src="java.svg" width="50" height="50">
-    <img src="c.svg" width="50" height="50">
-    <img src="cloudflare.svg" width="50" height="50">
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="html5.svg" width="50" height="50"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="css3-alt.svg" width="50" height="50"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="js.svg" width="50" height="50"></a>
+    <a href="https://www.java.com/en/"><img src="java.svg" width="50" height="50"></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="c.svg" width="50" height="50"></a>
+    <a href="https://www.cloudflare.com/"><img src="cloudflare.svg" width="50" height="50"></a>
 </p>
