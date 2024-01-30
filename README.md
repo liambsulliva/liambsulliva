@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hi!
 
-<!--
-**liambsulliva/liambsulliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="justify">
+    My name is Liam and I'm a student at the University of Pittsburgh studying Computer Science + Digital Narrative and Interactive Design. Right now I'm focussing on my degree, but I am learning front-end web development on the side to supplement my education.
+</div>
 
-Here are some ideas to get you started:
+## 🔊 Socials
+<img src="instagram.svg" width="50" height="50">
+<img src="linkedin.svg" width="50" height="50">
+<img src="github.svg" width="50" height="50">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+<img src="html5.svg" width="50" height="50">
+<img src="css3-alt.svg" width="50" height="50">
+<img src="js.svg" width="50" height="50">
+<img src="java.svg" width="50" height="50">
+<img src="c.svg" width="50" height="50">
+<img src="cloudflare.svg" width="50" height="50">
