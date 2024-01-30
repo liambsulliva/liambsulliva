@@ -1,7 +1,7 @@
 # 👋 Hi!
 
 <div align="justify">
-    My name is Liam and I'm a student at the University of Pittsburgh studying Computer Science + Digital Narrative and Interactive Design. Right now I'm focussing on my degree, but I am learning front-end web development on the side to supplement my education.
+    My name is Liam and I'm a student at the University of Pittsburgh studying Computer Science + Digital Narrative and Interactive Design. Right now I'm primarily focussing on my degree, but I am learning front-end web development on the side to supplement my education, which is most of what you'll find here.
 </div>
 
 ## 🔊 Socials
