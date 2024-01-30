@@ -6,17 +6,17 @@
 
 ## 🔊 Socials
 <p float="left">
-    [<img src="instagram.svg" width="50" height="50">](https://www.instagram.com/liamsullivanphoto/)
-    [<img src="linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/liambsulliva/)
-    [<img src="github.svg" width="50" height="50">](https://github.com/liambsulliva)
+    <img src="instagram.svg" width="50" height="50">
+    <img src="linkedin.svg" width="50" height="50">
+    <img src="github.svg" width="50" height="50">
 </p>
 
-## 🛠️ Tools I Use
+## 🛠️ Tools
 <p float="left">
-    [<img src="html5.svg" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-    [<img src="css3-alt.svg" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    [<img src="js.svg" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    [<img src="java.svg" width="50" height="50">](https://www.java.com/en/)
-    [<img src="c.svg" width="50" height="50">](https://en.wikipedia.org/wiki/C_(programming_language))
-    [<img src="cloudflare.svg" width="50" height="50">](https://www.cloudflare.com/)
+    <img src="html5.svg" width="50" height="50">
+    <img src="css3-alt.svg" width="50" height="50">
+    <img src="js.svg" width="50" height="50">
+    <img src="java.svg" width="50" height="50">
+    <img src="c.svg" width="50" height="50">
+    <img src="cloudflare.svg" width="50" height="50">
 </p>
