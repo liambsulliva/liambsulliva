@@ -6,7 +6,7 @@
 
 ## 🔊 Socials
 <p float="left">
-    <img src="instagram.svg" width="50" height="50">
+    <a href="https://www.instagram.com/liamsullivanphoto/"><img src="instagram.svg" width="50" height="50"></a>
     <img src="linkedin.svg" width="50" height="50">
     <img src="github.svg" width="50" height="50">
 </p>
