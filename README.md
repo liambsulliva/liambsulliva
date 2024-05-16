@@ -13,9 +13,6 @@
 
 ## 🛠️ Tools
 <p float="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="html5.svg" width="50" height="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="css3-alt.svg" width="50" height="50"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><i class="fa-brands fa-js"></i></a>
     <a href="https://react.dev"><img src="react.svg" width="50" height="50"></a>
     <a href="https://tailwindcss.com"><img src="tailwind.svg" width="50" height="50"></a>
     <a href="https://astro.build"><img src="astro.svg" width="50" height="50"></a>
