@@ -1,7 +1,7 @@
 # 👋 Hi!
 
 <div align="justify">
-    My name is Liam and I'm a student at the University of Pittsburgh studying Computer Science + Digital Narrative and Interactive Design. Right now I'm primarily focussing on my degree, but I am learning front-end web development on the side to supplement my education, which is most of what you'll find here.
+    My name is Liam and I'm a student at the University of Pittsburgh studying Computer Science + Digital Narrative and Interactive Design. Right now I'm primarily focussing on my degree, but I am learning web development on the side to supplement my education, which is most of what you'll find here.
 </div>
 
 ## 🔊 Socials
@@ -17,6 +17,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="css3-alt.svg" width="50" height="50"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><i class="fa-brands fa-js"></i></a>
     <a href="https://react.dev"><img src="react.svg" width="50" height="50"></a>
-    <a href="https://www.java.com/en/"><img src="java.svg" width="50" height="50"></a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="c.svg" width="50" height="50"></a>
+    <a href="https://tailwindcss.com"><img src="tailwind.svg" width="50" height="50"></a>
+    <a href="https://astro.build"><img src="astro.svg" width="50" height="50"></a>
+    <a href="https://nextjs.org"><img src="nextjs.svg" width="50" height="50"></a>
+    <a href="https://nodejs.org"><img src="nodejs.svg" width="50" height="50"></a>
+    <a href="https://ejs.co"><img src="ejs.svg" width="50" height="50"></a>
 </p>
