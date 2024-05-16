@@ -21,5 +21,6 @@
     <a href="https://astro.build"><img src="astro.svg" width="50" height="50"></a>
     <a href="https://nextjs.org"><img src="nextjs.svg" width="50" height="50"></a>
     <a href="https://nodejs.org"><img src="nodejs.svg" width="50" height="50"></a>
+    <a href="https://mongodb.com"><img src="mongodb.svg" width="50" height="50"></a>
     <a href="https://ejs.co"><img src="ejs.svg" width="50" height="50"></a>
 </p>
