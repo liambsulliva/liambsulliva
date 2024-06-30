@@ -2,7 +2,7 @@
     <h1 align="center">👋 Hi, I'm Liam!</h1>
   <img src="https://img.shields.io/badge/School-Pitt-blue?style=for-the-badge" alt="University of Pittsburgh">
   <img src="https://img.shields.io/badge/Major-Computer%20Science-orange?style=for-the-badge" alt="Computer Science">
-  <img src="https://img.shields.io/badge/Major-Digital%20Narrative%20%26%20Interactive%20Design-green?style=for-the-badge" alt="Digital Narrative & Interactive Design">
+  <img src="https://img.shields.io/badge/Major2-Digital%20Narrative%20%26%20Interactive%20Design-green?style=for-the-badge" alt="Digital Narrative & Interactive Design">
   <p style="margin-top: 0.75em">
     I'm currently a student at the University of Pittsburgh studying Computer Science + Digital Narrative and Interactive Design. Right now I'm primarily focussed on my degree, but I am learning web development on the side to supplement my education, which is most of what you'll find here.
 </p>
@@ -33,6 +33,8 @@
   </div>
 </div>
 
-<div style="margin-top: 2rem" align="center">
+---
+
+<div align="center">
   <i>Let's build something awesome together! 🚀</i>
 </div>
