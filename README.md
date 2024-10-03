@@ -8,7 +8,7 @@
   </p>
 </div>
 <div style="flex: 1;">
-  <h2 align="center">🛠️ Tech Stack</h2>
+  <h3 align="center">🛠️ Tech Stack</h3>
   <div align="center">
     <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
     <a href="https://astro.build/"><img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"></a>
