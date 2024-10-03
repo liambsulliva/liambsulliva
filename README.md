@@ -7,12 +7,6 @@
   My name is Liam and I'm a student at the University of Pittsburgh studying Computer Science + Digital Narrative and Interactive Design. Right now I'm primarily focussing on my degree, but I am learning web development on the side to supplement my education, which is most of what you'll find here.
   </p>
 </div>
-<div align="center">
-  <h2>🔊 Connect With Me</h2>
-  <a href="https://www.instagram.com/liamsullivanphoto/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/liambsulliva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/liambsulliva"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
 <div style="flex: 1;">
   <h2 align="center">🛠️ Tech Stack</h2>
   <div align="center">
