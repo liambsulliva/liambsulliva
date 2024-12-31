@@ -4,7 +4,7 @@
   <a href="https://www.sci.pitt.edu/academics/undergraduate-majors/computer-science"><img src="https://img.shields.io/badge/Major-Computer%20Science-orange?style=for-the-badge" alt="Computer Science"></a>
   <a href="https://www.sci.pitt.edu/academics/undergraduate-majors/digital-narrative-and-interactive-design"><img src="https://img.shields.io/badge/Major-Digital%20Narrative%20%26%20Interactive%20Design-green?style=for-the-badge" alt="Digital Narrative & Interactive Design"></a>
   <p style="margin-top: 1rem">
-  My name is Liam and I'm a student at the University of Pittsburgh studying Computer Science + Digital Narrative and Interactive Design. Right now I'm primarily focussing on my degree, but I am learning web development on the side to supplement my education, which is most of what you'll find here.
+  My name is Liam and I'm a student at the University of Pittsburgh studying Computer Science + Digital Narrative and Interactive Design. Right now I'm primarily focussing on my degree, but I am learning web technologies on the side to supplement my education, which is most of what you'll find here.
   </p>
 </div>
 <div style="flex: 1;">
