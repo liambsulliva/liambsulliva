@@ -7,6 +7,7 @@ Here's some of the stuff I've been working on.
 - [Ghost Trick Vita](https://github.com/liambsulliva/ghost-trick-vita) - An unofficial decompilation and port of Ghost Trick: Phantom Detective for the PlayStation Vita.
 - [Melee Vita](https://github.com/liambsulliva/melee-vita) - A native PlayStation Vita port of Super Smash Bros. Melee, built from doldecomp/melee. It ships no game data, so bring your own ISO.
 - [Switch React Menu](https://github.com/liambsulliva/switch-react-menu) - A minimalist home menu for the Nintendo Switch, built with React on top of [nx.js](https://github.com/TooTallNate/nx.js).
+- [TailVita MCP](https://github.com/liambsulliva/tailvita-mcp) - A PS Vita MCP bridge with a slimmed down memory footprint and Tailscale support.
 
 ### Web Apps
 
